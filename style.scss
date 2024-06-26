@@ -1,0 +1,14 @@
+$space:10px;
+
+.getAction{
+    margin: auto;
+}
+
+.filter{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin-top: $space;
+    gap: $space;
+}
+

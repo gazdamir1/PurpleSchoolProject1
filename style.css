@@ -1,0 +1,45 @@
+/* .getAction {
+  margin: auto;
+}
+
+.filter {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  margin-top: 10px;
+  gap: 10px;
+} */
+
+/*# sourceMappingURL=style.css.map */
+
+.button{
+  color: white;
+  border: 1px solid #333;
+  background: none;
+  padding: 10px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.wrapper{
+  display: flex;
+  color: white;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #333;
+  border-radius: 10px;
+}
+
+.wrapper > div{
+  padding: 20px;
+  border: 1px solid #333;
+  border-radius: 10px;
+}
+
+.yellow{
+  background: yellow;
+  color: #333;
+}
